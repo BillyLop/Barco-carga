@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(985): warning C4677: 'Sector_A': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(986): warning C4677: 'Sector_B': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(987): warning C4677: 'Sector_C': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(988): warning C4677: 'Sector_D': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(989): warning C4677: 'Sector_E': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(990): warning C4677: 'Sector_F': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(991): warning C4677: 'Sector_G': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(992): warning C4677: 'Sector_H': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(993): warning C4677: 'Sector_I': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(1408): warning C4677: 'ObtenerIds': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(1449): warning C4677: 'Añadir_ColumnaA': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(1513): warning C4677: 'Añadir_ColumnaB': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Sector'
+  c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\sector.h(2): note: vea la declaración de 'Sector'
+c:\users\asus\desktop\billy quimica lab\prueba2_proyecto1\prueba2_proyecto1\myform.h(1385): warning C4552: "-": el resultado de la expresión no se usa
+  Contenedor.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Prueba2_Proyecto1.vcxproj -> C:\Users\ASUS\Desktop\Billy Quimica lab\Prueba2_Proyecto1\Debug\Prueba2_Proyecto1.exe

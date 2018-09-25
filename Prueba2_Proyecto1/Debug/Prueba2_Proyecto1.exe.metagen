@@ -1,0 +1,44 @@
+  Prueba2Proyecto1.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Prueba2_Proyecto1, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Prueba2Proyecto1.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Sector Sector_A : Public
+    Sector Sector_B : Public
+    Sector Sector_C : Public
+    Sector Sector_D : Public
+    Sector Sector_E : Public
+    Sector Sector_F : Public
+    Sector Sector_G : Public
+    Sector Sector_H : Public
+    Sector Sector_I : Public
+    System.Collections.Queue Pedidos : Public
+    Int32 Cantidad_Pedidos : Public
+  Methods:
+    ActualizarInformación(): PrivateScope, Public, HideBySig
+    ActualizarPedidos(): PrivateScope, Public, HideBySig
+    AgregarPedido(): PrivateScope, Public, HideBySig
+    Validar_Int(String): PrivateScope, Public, HideBySig
+    VaciarEspacios_Pedidos(): PrivateScope, Public, HideBySig
+    VaciarSectores(): PrivateScope, Public, HideBySig
+    HabilitarSectores(): PrivateScope, Public, HideBySig
+    ObtenerRandom(Int32): PrivateScope, Public, HideBySig
+    LlenarColumnas(Int32): PrivateScope, Public, HideBySig
+    ObtenerIds(Sector): PrivateScope, Public, HideBySig
+    Añadir_ColumnaA(Sector, String, Int32): PrivateScope, Public, HideBySig
+    Añadir_ColumnaB(Sector, String, Int32): PrivateScope, Public, HideBySig
